@@ -10,7 +10,7 @@ npm start
 ```
 
 ### Starting Front-End
-crashes with node 17, use node 16.13.0
+crashes with node 17, use node 16.13.0 instead
 ```bash
 npm i
 npm start
