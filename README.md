@@ -2,7 +2,7 @@
 
 ## startup
 
-### Starting server
+### Starting server (using nodemon)
 ```bash
 cd back
 npm i
